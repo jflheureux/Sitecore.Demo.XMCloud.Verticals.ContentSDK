@@ -43,6 +43,12 @@ _ReSharper*/
 #Nuget packages folder
 packages/
 
+#Ignore system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
 # temporary workaround
 /docker/data/cm/*
 !/docker/data/cm/.gitkeep
