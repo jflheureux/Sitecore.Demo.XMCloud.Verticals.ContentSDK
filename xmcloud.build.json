@@ -57,7 +57,8 @@
         "renderinghost",
         "InitItems",
         "HeadlessSxaWebsite",
-        "HeadlessSxaWebsite-Content"
+        "HeadlessSxaWebsite-Content",
+        "Project.click-click-launch"
       ]
     },
     "postActions": {
